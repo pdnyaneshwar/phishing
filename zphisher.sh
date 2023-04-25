@@ -95,7 +95,7 @@ banner() {
 		${ORANGE} | |                                
 		${ORANGE} |_|                ${RED}Version : ${__version__}
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by pbl team ${WHITE}
 	EOF
 }
 
